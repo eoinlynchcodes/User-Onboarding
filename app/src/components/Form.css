@@ -1,0 +1,13 @@
+form{
+    margin: 50px 50px;
+    padding: 50px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    background-color: yellow;
+}
